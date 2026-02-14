@@ -1,0 +1,16 @@
+{
+    "name": "Aziz",
+    "age": 17,
+    "city": "Almaty",
+    "hobbies": [
+        "programming",
+        "math",
+        "games"
+    ],
+    "new_field": "Hello",
+    "cars": [
+        "None",
+        "Lexus 570 lx",
+        "Mersedes CLS 6.3 AMG"
+    ]
+}
