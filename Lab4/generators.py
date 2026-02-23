@@ -1,3 +1,18 @@
+numbers = [1, 2, 3]
+it = iter(numbers)
+
+print(next(it))
+print(next(it))
+print(next(it))
+
+def my_generator():
+    for i in range(5):
+        yield i
+
+gen = (x * 2 for x in range(5))
+
+
+
 class MyNumbers:
   def __iter__(self):
     self.a = 1
@@ -17,22 +32,12 @@ print(next(myiter))
 print(next(myiter))
 print(next(myiter))
 
+mytuple = ("apple", "banana", "cherry")
 
-class MyNumbers:
-  def __iter__(self):
-    self.a = 1
-    return self
+for x in mytuple:
+  print(x)
 
-  def __next__(self):
-    if self.a <= 20:
-      x = self.a
-      self.a += 1
-      return x
-    else:
-      raise StopIteration
+mystr = "banana"
 
-myclass = MyNumbers()
-myiter = iter(myclass)
-
-for x in myiter:
+for x in mystr:
   print(x)

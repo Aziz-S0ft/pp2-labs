@@ -1,4 +1,22 @@
-from datetime import datetime, timedelta
+from datetime import datetime
+from datetime import timedelta
+from zoneinfo import ZoneInfo
+now = datetime.now()
+print(now)
+
+print(now.strftime("%Y-%m-%d"))
+
+
+def get_time_in_timezone(timezone_name: str) -> datetime:
+    return datetime.now(ZoneInfo(timezone_name))
+
+
+if __name__ == "__main__":
+    print("UTC:", get_time_in_timezone("UTC"))
+    print("Almaty:", get_time_in_timezone("Asia/Almaty"))
+    print("New York:", get_time_in_timezone("America/New_York"))
+
+
 
 
 def add_days(dt: datetime, days: int) -> datetime:
