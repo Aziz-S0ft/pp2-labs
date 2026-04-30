@@ -1,6 +1,6 @@
 from datetime import datetime ,timedelta
 #Task N1
-'''a=input()
+a=input()
 b=datetime.strptime(a,'%Y-%m-%d %H:%M:%S')
 s=b-timedelta(5)
 print(s)
@@ -11,7 +11,7 @@ print('Today',a)
 print('Tomorrow',a+timedelta(1))
 #Task N3
 a=datetime.now()
-print(a-timedelta(microseconds=a.microsecond))'''
+print(a-timedelta(microseconds=a.microsecond))
 #Task N4
 a=input()
 b=input()

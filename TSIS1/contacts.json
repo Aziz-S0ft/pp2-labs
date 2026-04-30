@@ -1,0 +1,402 @@
+[
+    {
+        "name": "\u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432",
+        "email": "ivanov@mail.ru",
+        "birthday": "1990-05-15",
+        "group": "Family",
+        "phone": "89990001122",
+        "type": "mobile"
+    },
+    {
+        "name": "\u041f\u0435\u0442\u0440 \u041f\u0435\u0442\u0440\u043e\u0432",
+        "email": "petrov@work.ru",
+        "birthday": "1985-10-20",
+        "group": "Work",
+        "phone": "89991112233",
+        "type": "work"
+    },
+    {
+        "name": "\u0410\u043d\u043d\u0430 \u0421\u043c\u0438\u0440\u043d\u043e\u0432\u0430",
+        "email": "anna.s@gmail.com",
+        "birthday": "1992-03-12",
+        "group": "Friend",
+        "phone": "89001112233",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432",
+        "email": "dima_k@yandex.ru",
+        "birthday": "1988-07-25",
+        "group": "Work",
+        "phone": "89112223344",
+        "type": "work"
+    },
+    {
+        "name": "\u0415\u043b\u0435\u043d\u0430 \u041f\u043e\u043f\u043e\u0432\u0430",
+        "email": "elena.popova@mail.ru",
+        "birthday": "1995-11-05",
+        "group": "Family",
+        "phone": "89213334455",
+        "type": "home"
+    },
+    {
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0421\u043e\u043a\u043e\u043b\u043e\u0432",
+        "email": "sokolov@tech.com",
+        "birthday": "1982-01-30",
+        "group": "Work",
+        "phone": "89314445566",
+        "type": "work"
+    },
+    {
+        "name": "\u041c\u0430\u0440\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430",
+        "email": "masha.l@gmail.com",
+        "birthday": "1993-09-18",
+        "group": "Friend",
+        "phone": "89415556677",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u043e\u0437\u043b\u043e\u0432",
+        "email": "kozlov@list.ru",
+        "birthday": "1980-04-22",
+        "group": "Other",
+        "phone": "89516667788",
+        "type": "home"
+    },
+    {
+        "name": "\u041e\u043b\u044c\u0433\u0430 \u041d\u043e\u0432\u0438\u043a\u043e\u0432\u0430",
+        "email": "olga.nov@yandex.ru",
+        "birthday": "1991-12-14",
+        "group": "Family",
+        "phone": "89617778899",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041c\u043e\u0440\u043e\u0437\u043e\u0432",
+        "email": "morozov@corp.ru",
+        "birthday": "1979-06-08",
+        "group": "Work",
+        "phone": "89718889900",
+        "type": "work"
+    },
+    {
+        "name": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u041f\u0435\u0442\u0440\u043e\u0432\u0430",
+        "email": "tatiana@mail.ru",
+        "birthday": "1987-02-19",
+        "group": "Friend",
+        "phone": "89819990011",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0418\u0433\u043e\u0440\u044c \u0412\u043e\u043b\u043a\u043e\u0432",
+        "email": "volkov_i@gmail.com",
+        "birthday": "1994-08-30",
+        "group": "Other",
+        "phone": "89920001122",
+        "type": "mobile"
+    },
+    {
+        "name": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0421\u043e\u043b\u043e\u0432\u044c\u0435\u0432\u0430",
+        "email": "natalia_s@yandex.ru",
+        "birthday": "1983-05-27",
+        "group": "Work",
+        "phone": "89021112233",
+        "type": "work"
+    },
+    {
+        "name": "\u0412\u0438\u043a\u0442\u043e\u0440 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432",
+        "email": "viktor.v@mail.ru",
+        "birthday": "1996-03-03",
+        "group": "Family",
+        "phone": "89122223344",
+        "type": "home"
+    },
+    {
+        "name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0417\u0430\u0439\u0446\u0435\u0432\u0430",
+        "email": "katya.z@gmail.com",
+        "birthday": "1990-10-10",
+        "group": "Friend",
+        "phone": "89223334455",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u041f\u0430\u0432\u043b\u043e\u0432",
+        "email": "pavlov_a@work.ru",
+        "birthday": "1975-11-21",
+        "group": "Work",
+        "phone": "89324445566",
+        "type": "work"
+    },
+    {
+        "name": "\u042e\u043b\u0438\u044f \u0421\u0435\u043c\u0435\u043d\u043e\u0432\u0430",
+        "email": "yulia.s@mail.ru",
+        "birthday": "1989-07-17",
+        "group": "Family",
+        "phone": "89425556677",
+        "type": "mobile"
+    },
+    {
+        "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u0413\u043e\u043b\u0443\u0431\u0435\u0432",
+        "email": "mikhail.g@yandex.ru",
+        "birthday": "1992-04-04",
+        "group": "Other",
+        "phone": "89526667788",
+        "type": "mobile"
+    },
+    {
+        "name": "\u041e\u043a\u0441\u0430\u043d\u0430 \u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0430",
+        "email": "oksana.v@gmail.com",
+        "birthday": "1986-09-29",
+        "group": "Friend",
+        "phone": "89627778899",
+        "type": "mobile"
+    },
+    {
+        "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432",
+        "email": "maxim.b@corp.ru",
+        "birthday": "1994-01-25",
+        "group": "Work",
+        "phone": "89728889900",
+        "type": "work"
+    },
+    {
+        "name": "\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430 \u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432\u0430",
+        "email": "sveta.v@mail.ru",
+        "birthday": "1981-12-05",
+        "group": "Family",
+        "phone": "89829990011",
+        "type": "home"
+    },
+    {
+        "name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0424\u0435\u0434\u043e\u0440\u043e\u0432",
+        "email": "nikolay.f@yandex.ru",
+        "birthday": "1978-08-14",
+        "group": "Other",
+        "phone": "89930001122",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0418\u0440\u0438\u043d\u0430 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0430",
+        "email": "irina.m@gmail.com",
+        "birthday": "1993-02-11",
+        "group": "Friend",
+        "phone": "89031112233",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0410\u0440\u0442\u0435\u043c \u0411\u0435\u043b\u044f\u0435\u0432",
+        "email": "artem.b@work.ru",
+        "birthday": "1987-06-23",
+        "group": "Work",
+        "phone": "89132223344",
+        "type": "work"
+    },
+    {
+        "name": "\u0410\u043b\u0438\u043d\u0430 \u0422\u0430\u0440\u0430\u0441\u043e\u0432\u0430",
+        "email": "alina.t@mail.ru",
+        "birthday": "1995-10-15",
+        "group": "Family",
+        "phone": "89233344556",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0414\u0435\u043d\u0438\u0441 \u0411\u0435\u043b\u043e\u0432",
+        "email": "denis.b@yandex.ru",
+        "birthday": "1984-04-09",
+        "group": "Other",
+        "phone": "89334445567",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u044f \u0424\u0438\u043b\u0438\u043f\u043f\u043e\u0432\u0430",
+        "email": "evgenia.f@gmail.com",
+        "birthday": "1991-03-19",
+        "group": "Friend",
+        "phone": "89435556678",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0420\u043e\u043c\u0430\u043d \u041c\u0430\u0440\u043a\u043e\u0432",
+        "email": "roman.m@corp.ru",
+        "birthday": "1980-11-12",
+        "group": "Work",
+        "phone": "89536667789",
+        "type": "work"
+    },
+    {
+        "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u044f \u0421\u043e\u043a\u043e\u043b\u043e\u0432\u0430",
+        "email": "valeria.s@mail.ru",
+        "birthday": "1996-05-24",
+        "group": "Family",
+        "phone": "89637778890",
+        "type": "home"
+    },
+    {
+        "name": "\u041a\u0438\u0440\u0438\u043b\u043b \u041f\u043e\u043b\u044f\u043a\u043e\u0432",
+        "email": "kirill.p@yandex.ru",
+        "birthday": "1977-07-07",
+        "group": "Other",
+        "phone": "89738889901",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f \u041a\u043e\u0437\u043b\u043e\u0432\u0430",
+        "email": "vika.k@gmail.com",
+        "birthday": "1992-12-28",
+        "group": "Friend",
+        "phone": "89839990012",
+        "type": "mobile"
+    },
+    {
+        "name": "\u041f\u0430\u0432\u0435\u043b \u0421\u0442\u0435\u043f\u0430\u043d\u043e\u0432",
+        "email": "pavel.s@work.ru",
+        "birthday": "1985-01-16",
+        "group": "Work",
+        "phone": "89940001123",
+        "type": "work"
+    },
+    {
+        "name": "\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430 \u0415\u0433\u043e\u0440\u043e\u0432\u0430",
+        "email": "kristina.e@mail.ru",
+        "birthday": "1990-09-02",
+        "group": "Family",
+        "phone": "89041112234",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u041e\u0440\u043b\u043e\u0432",
+        "email": "vlad.o@yandex.ru",
+        "birthday": "1983-10-30",
+        "group": "Other",
+        "phone": "89142223345",
+        "type": "mobile"
+    },
+    {
+        "name": "\u041c\u0430\u0440\u0438\u043d\u0430 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0430",
+        "email": "marina.n@gmail.com",
+        "birthday": "1988-06-21",
+        "group": "Friend",
+        "phone": "89243334456",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432 \u041a\u043e\u0432\u0430\u043b\u0435\u0432",
+        "email": "stas.k@corp.ru",
+        "birthday": "1994-02-14",
+        "group": "Work",
+        "phone": "89344445567",
+        "type": "work"
+    },
+    {
+        "name": "\u0414\u0430\u0440\u044c\u044f \u0415\u0433\u043e\u0440\u043e\u0432\u0430",
+        "email": "darya.e@mail.ru",
+        "birthday": "1995-08-08",
+        "group": "Family",
+        "phone": "89445556678",
+        "type": "home"
+    },
+    {
+        "name": "\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0417\u0430\u0445\u0430\u0440\u043e\u0432",
+        "email": "grigory.z@yandex.ru",
+        "birthday": "1979-05-05",
+        "group": "Other",
+        "phone": "89546667789",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u0417\u0430\u0439\u0446\u0435\u0432\u0430",
+        "email": "anastasia.z@gmail.com",
+        "birthday": "1991-04-13",
+        "group": "Friend",
+        "phone": "89647778890",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0418\u043b\u044c\u044f \u0410\u043d\u0434\u0440\u0435\u0435\u0432",
+        "email": "ilya.a@work.ru",
+        "birthday": "1986-11-20",
+        "group": "Work",
+        "phone": "89748889901",
+        "type": "work"
+    },
+    {
+        "name": "\u0410\u043b\u0435\u043d\u0430 \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0430",
+        "email": "alena.a@mail.ru",
+        "birthday": "1993-01-29",
+        "group": "Family",
+        "phone": "89849990012",
+        "type": "mobile"
+    },
+    {
+        "name": "\u041d\u0438\u043a\u0438\u0442\u0430 \u0420\u043e\u043c\u0430\u043d\u043e\u0432",
+        "email": "nikita.r@yandex.ru",
+        "birthday": "1990-07-15",
+        "group": "Other",
+        "phone": "89950001123",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0412\u0435\u0440\u0430 \u041c\u0430\u043a\u0430\u0440\u043e\u0432\u0430",
+        "email": "vera.m@gmail.com",
+        "birthday": "1982-12-03",
+        "group": "Friend",
+        "phone": "89051112234",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0422\u0438\u043c\u0443\u0440 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432",
+        "email": "timur.v@work.ru",
+        "birthday": "1989-09-10",
+        "group": "Work",
+        "phone": "89152223345",
+        "type": "work"
+    },
+    {
+        "name": "\u041a\u0441\u0435\u043d\u0438\u044f \u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0430",
+        "email": "ksenia.b@mail.ru",
+        "birthday": "1994-06-18",
+        "group": "Family",
+        "phone": "89253334456",
+        "type": "home"
+    },
+    {
+        "name": "\u0410\u0440\u0442\u0443\u0440 \u042f\u043a\u043e\u0432\u043b\u0435\u0432",
+        "email": "artur.y@yandex.ru",
+        "birthday": "1981-03-27",
+        "group": "Other",
+        "phone": "89354445567",
+        "type": "mobile"
+    },
+    {
+        "name": "\u041e\u043b\u0435\u0441\u044f \u041c\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u0430",
+        "email": "olesya.m@gmail.com",
+        "birthday": "1996-02-09",
+        "group": "Friend",
+        "phone": "89455556678",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u041b\u0435\u0431\u0435\u0434\u0435\u0432",
+        "email": "vlad.l@corp.ru",
+        "birthday": "1976-10-14",
+        "group": "Work",
+        "phone": "89556667789",
+        "type": "work"
+    },
+    {
+        "name": "\u041b\u044e\u0431\u043e\u0432\u044c \u0415\u0433\u043e\u0440\u043e\u0432\u0430",
+        "email": "lubov.e@mail.ru",
+        "birthday": "1988-08-22",
+        "group": "Family",
+        "phone": "89657778890",
+        "type": "mobile"
+    },
+    {
+        "name": "\u0413\u043b\u0435\u0431 \u0429\u0435\u0440\u0431\u0430\u043a\u043e\u0432",
+        "email": "gleb.s@yandex.ru",
+        "birthday": "1993-12-01",
+        "group": "Other",
+        "phone": "89758889901",
+        "type": "mobile"
+    }
+]
